@@ -17,7 +17,8 @@ Welcome to the **Interactive Animated Periodic Table** project! This is a beauti
 🌐 **Live Demo:** [Interactive Periodic Table](#) *(Add your demo link here)*  
 
 ### Screenshot  
-![](https://github.com/user-attachments/assets/61f7fe98-a0be-4719-ae4e-a52e0d41efaf)
+Project run successfully
+![table](https://github.com/user-attachments/assets/61f7fe98-a0be-4719-ae4e-a52e0d41efaf)
 
 
 ---
@@ -28,3 +29,41 @@ Welcome to the **Interactive Animated Periodic Table** project! This is a beauti
 ├── style.css        # CSS file for animations and styling  
 ├── script.js        # JavaScript file for interactivity  
 └── assets/          # (Optional) Folder for images or additional assets
+
+
+### Downlode Source code from github
+Using This : 
+
+```
+$ git clone https://github.com/naveen-kumawat/Flower.git
+```
+
+## 🎯 How to Contribute  
+
+We welcome contributions from the community! Here’s how you can help:  
+
+1. **Fork the repository** and create your branch.  
+2. Add your enhancements or bug fixes.  
+3. Submit a **pull request** with a detailed description.  
+
+---
+
+## 📜 License  
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
+
+---
+
+## 🌟 Acknowledgments  
+
+Powered by **Search4Code**: Bringing code and creativity together!  
+
+---
+
+## 💬 Feedback  
+
+If you have suggestions or found a bug, feel free to open an issue or contact us via:  
+
+📧 Email: your-email@example.com  
+🌐 YouTube: [Search4Code](https://www.youtube.com/@search4code?sub_confirmation=1)
+
