@@ -15,6 +15,7 @@ Welcome to the **Interactive Animated Periodic Table** project! This is a beauti
 <a href="https://www.youtube.com/@search4code?sub_confirmation=1">
   <img src="https://static.vecteezy.com/system/resources/previews/018/930/572/non_2x/youtube-logo-youtube-icon-transparent-free-png.png" alt="YouTube Logo" width="80">
 </a>
+
 ## 🖥️ Preview  
 
 🌐 **Live Demo:** [Interactive Periodic Table](https://naveen-kumawat.github.io/Periodic-Table/)  
