@@ -17,7 +17,6 @@ Welcome to the **Interactive Animated Periodic Table** project! This is a beauti
 🌐 **Live Demo:** [Interactive Periodic Table](https://naveen-kumawat.github.io/Periodic-Table/)  
 
 ### Screenshot  
-Project run successfully
 ![table](https://github.com/user-attachments/assets/61f7fe98-a0be-4719-ae4e-a52e0d41efaf)
 
 
@@ -36,7 +35,7 @@ Project run successfully
 Using This : 
 
 ```
-$ git clone https://github.com/naveen-kumawat/Flower.git
+$ git clone https://github.com/naveen-kumawat/Periodic-Table.git
 ```
 
 ## 🎯 How to Contribute  
@@ -65,6 +64,6 @@ Powered by **Search4Code**: Bringing code and creativity together!
 
 If you have suggestions or found a bug, feel free to open an issue or contact us via:  
 
-📧 Email: your-email@example.com  
+📧 Email: nk75kumawat@gmail.com 
 🌐 YouTube: [Search4Code](https://www.youtube.com/@search4code?sub_confirmation=1)
 
