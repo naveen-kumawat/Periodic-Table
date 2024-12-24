@@ -21,7 +21,7 @@ Project run successfully
 ![table](https://github.com/user-attachments/assets/61f7fe98-a0be-4719-ae4e-a52e0d41efaf)
 
 
----
+
 
 ## 📂 Project Structure  
 ```plaintext
@@ -29,6 +29,7 @@ Project run successfully
 ├── style.css        # CSS file for animations and styling  
 ├── script.js        # JavaScript file for interactivity  
 └── assets/          # (Optional) Folder for images or additional assets
+```
 
 
 ### Downlode Source code from github
